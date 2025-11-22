@@ -7,8 +7,8 @@
 /metrics_mean
 /metrics_opt
 /metrics_standard
-/model_opt
-/model_standard
+# /model_opt
+# /model_standard
 /optimal_dataset
 /output
 /pred_mean
@@ -20,6 +20,8 @@
 /vitae_shap_1
 /__pycache__
 /utils
+
+*_backup.ipynb
 
 *.npy
 *.txt
