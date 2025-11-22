@@ -1,6 +1,6 @@
 # Wind Field Reconstruction
 
-A comprehensive deep learning framework for wind field reconstruction from sparse sensor measurements. This project implements and compares multiple deep learning architectures (U-Net, ViTAE, CWGAN) with traditional Kriging interpolation methods for reconstructing complete 2D wind velocity fields from limited sensor observations.
+A comprehensive deep learning framework for wind field reconstruction from sparse sensor measurements. This project implements and compares multiple deep learning architectures (U-Net, ViTAE, CWGAN) with traditional Kriging interpolation methods for reconstructing wind velocity fields from sparse sensor observations.
 
 ## Overview
 
