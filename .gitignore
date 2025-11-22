@@ -2,7 +2,8 @@
 
 /cwgan_shap_0
 /cwgan_shap_1
-/dataset
+*_2.csv
+*_3.csv
 /metrics_mean
 /metrics_opt
 /metrics_standard
@@ -18,6 +19,7 @@
 /vitae_shap_0
 /vitae_shap_1
 /_pycache_
+/utils
 
 *.npy
 *.txt
