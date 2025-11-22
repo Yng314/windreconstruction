@@ -58,7 +58,7 @@ pip install numpy pandas scipy matplotlib tensorflow scikit-learn scikit-image p
 - `pandas`
 - `scipy`
 - `pykrige` (for Kriging interpolation)
-- `scikit-image` (for SSIM and PSNR metrics)
+- `scikit-image`
 
 ## Usage
 
