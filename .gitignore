@@ -1,0 +1,28 @@
+/.conda
+
+/cwgan_shap_0
+/cwgan_shap_1
+*_2.csv
+*_3.csv
+/metrics_mean
+/metrics_opt
+/metrics_standard
+# /model_opt
+# /model_standard
+/optimal_dataset
+/output
+/pred_mean
+/pred_opt
+/unet_shap_0
+/unet_shap_1
+/ViTAE_flat_shap_1
+/vitae_shap_0
+/vitae_shap_1
+/__pycache__
+/utils
+
+*_backup.ipynb
+
+*.npy
+*.txt
+
